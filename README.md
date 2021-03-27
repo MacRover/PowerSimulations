@@ -1,6 +1,8 @@
 # PowerSimulations
 MATLAB and Simulink apps to run simulations of the rover power system
 
+To see how it was made check out the [Tutorial Playlist](https://www.youtube.com/playlist?list=PLblY6MS7fO5hx63aFU4fDoQwe_UTacCDR)
+
 ## DriveMotorSim
 **Version: 1.0:**
 Simulation app that models the dynamics of the rover and current/power usage of the rover's drivetrain given a duty cycle input to the drive motors.
